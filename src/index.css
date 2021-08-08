@@ -1,0 +1,26 @@
+
+.item{
+  display: flex;
+  flex-direction: column;
+}
+.product{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px ;
+    border-bottom: solid black;
+    
+}
+
+img{
+  height : 150px ;
+  width: 220px;
+}
+
+.name{
+  padding-right: 9%;
+}
+
+p{
+  font-size: 22px;
+}
